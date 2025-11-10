@@ -1,5 +1,5 @@
 ---
-title: 2015 San Marcos Conference Center
+title: "2015: San Marcos Conference Center"
 date: 2015-08-21
 tags: [austin]
 ---

@@ -1,5 +1,5 @@
 ---
-title: 2012 Norris Conference Center, San Antonio
+title: "2012: Norris Conference Center, San Antonio"
 date: 2012-08-03
 tags: [san-antonio]
 ---

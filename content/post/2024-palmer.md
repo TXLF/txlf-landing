@@ -1,5 +1,5 @@
 ---
-title: 2024 Palmer Events Center, Austin
+title: "2024: Palmer Events Center, Austin"
 date: 2024-04-12
 tags: [austin]
 ---

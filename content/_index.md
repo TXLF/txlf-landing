@@ -1,3 +1,5 @@
 Texas Linux Fest is a gathering of technology enthusiasts with the goal of sharing our knowledge and love of everything Linux, Open Source or just plain old geeky. It has been an event since 2010, and besides taking a couple of years off for pandemics, takes place annually in Texas. We've had amazing keynotes over the years, but also strive to be a conference that is friendly and welcoming to folks giving their first talk, or their hundredth. We'd love to have you join us and become one of those old friends we enjoy seeing each year.
 
 Texas Linux Fest is organized by volunteers and is an educational non-profit organization. Our mission is to bring awesome technical content to Texas and build up the technical community in Texas.
+
+**[Join us at our upcoming 2026 Texas Linux Fest](https://2026.texaslinuxfest.org/)**

@@ -1,5 +1,5 @@
 ---
-title: 2018 AT&T Conference Center, Austin
+title: "2018: AT&T Conference Center, Austin"
 date: 2018-06-08
 tags: [austin]
 ---

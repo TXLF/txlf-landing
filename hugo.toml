@@ -1,6 +1,6 @@
 baseurl = "https://texaslinuxfest.org"
 DefaultContentLanguage = "en"
-title = "Texas Linux Fest (TXLF)"
+title = "Texas Linux Fest"
 theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Texas' Community Tech Conference"
+#  subtitle = "Texas' Community Tech Conference"
   mainSections = ["post","posts"]
   logo = "/images/txlf-icon-grey.svg"
   favicon = "/images/txlf-icon-grey.svg"

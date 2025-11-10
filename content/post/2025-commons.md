@@ -1,5 +1,5 @@
 ---
-title: 2025 UT Austin, Commons Conference Center
+title: "2025: UT Austin, Commons Conference Center"
 date: 2025-10-03
 tags: [austin]
 ---

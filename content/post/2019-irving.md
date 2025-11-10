@@ -1,5 +1,5 @@
 ---
-title: 2019 Irving Convention Center
+title: "2019: Irving Convention Center"
 date: 2019-05-31
 tags: [irving, dallas]
 ---
