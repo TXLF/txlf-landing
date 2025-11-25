@@ -1,4 +1,4 @@
-baseurl = "https://texaslinuxfest.org"
+baseurl = "https://www.texaslinuxfest.org"
 DefaultContentLanguage = "en"
 title = "Texas Linux Fest"
 theme = "github.com/halogenica/beautifulhugo"
