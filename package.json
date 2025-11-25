@@ -1,0 +1,22 @@
+{
+  "name": "txlf-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Texas Linux Festival",
+  "homepage": "https://github.com/TXLF/txlf-landing#readme",
+  "bugs": {
+    "url": "https://github.com/TXLF/txlf-landing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TXLF/txlf-landing.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server --watch",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "test": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify"
+  }
+}
