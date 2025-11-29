@@ -4,26 +4,26 @@ date: 2016-07-08
 tags: [austin]
 ---
 
-## Location
+### Location
 
 Austin Convention Center
 
-## Dates
+### Dates
 
 July 8-9, 2016
 
-## Keynote
+### Keynote
 
 Going Gray: Free Software at 35\
 Matt Lee\
 Creative Commons
 
-## Schedule
+### Schedule
 
 [Schedule](https://web.archive.org/web/20161111151859/http://2016.texaslinuxfest.org/content/schedule)
 
 
-## Media Links
+### Media Links
 
 * [Having a Gas at Texas Linux Fest 2016](https://fossforce.com/2016/07/texas-linux-fest-2016/)
 * [TXLF 2016 Recap (iXsystems / FreeBSD)](https://www.ixsystems.com/blog/txlf-2016-recap/)
