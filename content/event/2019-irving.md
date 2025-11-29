@@ -14,8 +14,8 @@ May 31 - June 1, 2019
 
 ## Keynote
 
-[Linux State of the Union](https://2019.texaslinuxfest.org/presentations.html#track1_0)
-Thomas Cameron
+[Linux State of the Union](https://2019.texaslinuxfest.org/presentations.html#track1_0)\
+Thomas Cameron\
 Red Hat
 
 ## Schedule

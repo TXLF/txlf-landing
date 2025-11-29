@@ -14,8 +14,8 @@ August 21-22, 2015
 
 ## Keynote
 
-[Evolve or Perish! Improving OSS Communities the Apache Way](https://web.archive.org/web/20150906050324/https://2015.texaslinuxfest.org/content/evolve-or-perish-improving-oss-communities-apache-way)
-Joan Touzet
+[Evolve or Perish! Improving OSS Communities the Apache Way](https://web.archive.org/web/20150906050324/https://2015.texaslinuxfest.org/content/evolve-or-perish-improving-oss-communities-apache-way)\
+Joan Touzet\
 Apache Foundation
 
 ## Schedule

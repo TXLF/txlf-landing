@@ -14,8 +14,8 @@ Oct 3-4, 2025
 
 ## Keynote
 
-[Linux Software Security](https://2025.texaslinuxfest.org/talks/keynote/)
-Dustin Kirkland
+[Linux Software Security](https://2025.texaslinuxfest.org/talks/keynote/)\
+Dustin Kirkland\
 Chainguard
 
 ## Schedule

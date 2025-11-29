@@ -14,8 +14,8 @@ June 8-9, 2018
 
 ## Keynote
 
-Open Source Education Resources
-Ross Reedstrom
+Open Source Education Resources\
+Ross Reedstrom\
 OpenStax
 
 ## Schedule

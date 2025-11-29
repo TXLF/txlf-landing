@@ -14,8 +14,8 @@ April 2, 2011
 
 ## Keynote
 
-[How Desktop Linux is Shaping the Future](https://web.archive.org/web/20110728000106/http://texaslinuxfest.org/sessions/how-desktop-linux-shaping-future)
-Ken Starks
+[How Desktop Linux is Shaping the Future](https://web.archive.org/web/20110728000106/http://texaslinuxfest.org/sessions/how-desktop-linux-shaping-future)\
+Ken Starks\
 The HeliOS Project
 
 ## Schedule

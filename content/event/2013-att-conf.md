@@ -14,8 +14,8 @@ May 31 - June 1, 2013
 
 ## Keynote
 
-Scaling: Lessons Learned and Their Applications to Apache Culture
-Theo Schlossnagle
+Scaling: Lessons Learned and Their Applications to Apache Culture\
+Theo Schlossnagle\
 OmniTI
 
 ## Schedule

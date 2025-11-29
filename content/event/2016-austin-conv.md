@@ -14,8 +14,8 @@ July 8-9, 2016
 
 ## Keynote
 
-Going Gray: Free Software at 35
-Matt Lee
+Going Gray: Free Software at 35\
+Matt Lee\
 Creative Commons
 
 ## Schedule

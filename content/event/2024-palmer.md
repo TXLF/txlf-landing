@@ -14,8 +14,8 @@ April 12-13, 2024
 
 ## Keynote
 
-[How (Not) To Get Into Tech](https://2024.texaslinuxfest.org/talks/how-not-to-get-into-tech/)
-Anita Zhang
+[How (Not) To Get Into Tech](https://2024.texaslinuxfest.org/talks/how-not-to-get-into-tech/)\
+Anita Zhang\
 Meta
 
 ## Schedule

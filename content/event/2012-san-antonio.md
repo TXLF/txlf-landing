@@ -14,8 +14,8 @@ August 3-4, 2012
 
 ## Keynote
 
-[Hackerspaces and Free Culture](https://web.archive.org/web/20120725085656/http://2012.texaslinuxfest.org/sessions/hackerspaces-and-free-culture)
-Chris Hardee, Jeremy Zunker, and Mike Perez
+[Hackerspaces and Free Culture](https://web.archive.org/web/20120725085656/http://2012.texaslinuxfest.org/sessions/hackerspaces-and-free-culture)\
+Chris Hardee, Jeremy Zunker, and Mike Perez\
 10BitWorks Hackerspace
 
 ## Schedule
