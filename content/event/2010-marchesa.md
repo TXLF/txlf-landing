@@ -4,15 +4,15 @@ date: 2010-04-10
 tags: [austin]
 ---
 
-## Location
+### Location
 
 The Marchesa, Austin
 
-## Dates
+### Dates
 
 April 10, 2010
 
-## Keynote
+### Keynote
 
 A Musical Guide to the Future of Linux: Reprise\
 Joe "Zonker" Brockmeier\
@@ -22,12 +22,12 @@ openSUSE
 Randal L. Schwartz\
 Perl
 
-## Schedule
+### Schedule
 
 [Schedule](https://web.archive.org/web/20110830103936/http://texaslinuxfest.org:80/program/session-schedule)
 
 
-## Media Links
+### Media Links
 
 * [On bootstrapping a community-run FOSS event](https://lwn.net/Articles/384220/)
 * [Texas LinuxFest 2010 Event Page (Fedora Wiki)](https://fedoraproject.org/wiki/Texas_LinuxFest_2010)

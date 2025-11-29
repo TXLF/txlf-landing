@@ -4,26 +4,26 @@ date: 2024-04-12
 tags: [austin]
 ---
 
-## Location
+### Location
 
 Palmer Events Center, Austin
 
-## Dates
+### Dates
 
 April 12-13, 2024
 
-## Keynote
+### Keynote
 
 [How (Not) To Get Into Tech](https://2024.texaslinuxfest.org/talks/how-not-to-get-into-tech/)\
 Anita Zhang\
 Meta
 
-## Schedule
+### Schedule
 
 [Schedule](https://2024.texaslinuxfest.org/schedule/)
 
 
-## Media Links
+### Media Links
 
 * [Texas Linux Fest 2024 Recap (Major.io)](https://major.io/p/texas-linux-fest-2024-recap/)
 * [DIY NAS: 2025 Texas Linux Fest Edition (Brian Moses)](https://blog.briancmoses.com/2025/09/diy-nas-2025-texas-linux-fest-edition.html)

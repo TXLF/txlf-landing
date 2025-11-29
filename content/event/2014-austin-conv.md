@@ -4,26 +4,26 @@ date: 2014-06-13
 tags: [austin]
 ---
 
-## Location
+### Location
 
 Austin Convention Center
 
-## Dates
+### Dates
 
 June 13-14, 2014
 
-## Keynote
+### Keynote
 
 Identity Crisis: Are we who we say we are?\
 Karen Sandler\
 Software Freedom Conservancy
 
-## Schedule
+### Schedule
 
 [Schedule](https://web.archive.org/web/20150106105336/http://2014.texaslinuxfest.org/content/event-schedule.html)
 
 
-## Media Links
+### Media Links
 
 * [Chris Aniszczyk: Mesos at Texas Linux Fest 2014 (#TXLF)](https://www.aniszczyk.org/2014/06/15/texas-linux-fest-2014-txlf/)
 * [Event Report: Texas Linux Fest 2014](https://www.linux-magazine.com/index.php/Issues/2014/167/Event-Report-Texas-Linux-Fest-2014)
