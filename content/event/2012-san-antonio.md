@@ -4,19 +4,20 @@ date: 2012-08-03
 tags: [san-antonio]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>Norris Conference Center, San Antonio</dd>
+Norris Conference Center, San Antonio
 
-<dt>Dates</dt>
-<dd>August 3-4, 2012</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd><a href="https://web.archive.org/web/20120725085656/http://2012.texaslinuxfest.org/sessions/hackerspaces-and-free-culture">Hackerspaces and Free Culture</a><br />
-Chris Hardee, Jeremy Zunker, and Mike Perez<br/>
-10BitWorks Hackerspace</dd>
+August 3-4, 2012
 
-<dt><a href="https://web.archive.org/web/20121028185657/http://2012.texaslinuxfest.org/program">Schedule</a></dt>
+## Keynote
 
-</dl>
+[Hackerspaces and Free Culture](https://web.archive.org/web/20120725085656/http://2012.texaslinuxfest.org/sessions/hackerspaces-and-free-culture)\
+Chris Hardee, Jeremy Zunker, and Mike Perez\
+10BitWorks Hackerspace
+
+## Schedule
+
+[Schedule](https://web.archive.org/web/20121028185657/http://2012.texaslinuxfest.org/program)

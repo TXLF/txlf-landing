@@ -4,19 +4,20 @@ date: 2019-05-31
 tags: [irving, dallas]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>Irving Convention Center, Irving</dd>
+Irving Convention Center, Irving
 
-<dt>Dates</dt>
-<dd>May 31 - June 1, 2019</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd><a href="https://2019.texaslinuxfest.org/presentations.html#track1_0">Linux State of the Union</a><br />
-Thomas Cameron<br/>
-Red Hat</dd>
+May 31 - June 1, 2019
 
-<dt><a href="https://2019.texaslinuxfest.org/schedule.html">Schedule</a></dt>
+## Keynote
 
-</dl>
+[Linux State of the Union](https://2019.texaslinuxfest.org/presentations.html#track1_0)\
+Thomas Cameron\
+Red Hat
+
+## Schedule
+
+[Schedule](https://2019.texaslinuxfest.org/schedule.html)

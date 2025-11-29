@@ -4,19 +4,20 @@ date: 2018-06-08
 tags: [austin]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>AT&T Conference Center, Austin</dd>
+AT&T Conference Center, Austin
 
-<dt>Dates</dt>
-<dd>June 8-9, 2018</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd>Open Source Education Resources<br />
-Ross Reedstrom<br/>
-OpenStax</dd>
+June 8-9, 2018
 
-<dt><a href="https://web.archive.org/web/20181229050125/https://2018.texaslinuxfest.org/">Schedule</a></dt>
+## Keynote
 
-</dl>
+Open Source Education Resources\
+Ross Reedstrom\
+OpenStax
+
+## Schedule
+
+[Schedule](https://web.archive.org/web/20181229050125/https://2018.texaslinuxfest.org/)

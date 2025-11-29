@@ -4,19 +4,20 @@ date: 2016-07-08
 tags: [austin]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>Austin Convention Center</dd>
+Austin Convention Center
 
-<dt>Dates</dt>
-<dd>July 8-9, 2016</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd>Going Gray: Free Software at 35<br />
-Matt Lee<br/>
-Creative Commons</dd>
+July 8-9, 2016
 
-<dt><a href="https://web.archive.org/web/20161111151859/http://2016.texaslinuxfest.org/content/schedule">Schedule</a></dt>
+## Keynote
 
-</dl>
+Going Gray: Free Software at 35\
+Matt Lee\
+Creative Commons
+
+## Schedule
+
+[Schedule](https://web.archive.org/web/20161111151859/http://2016.texaslinuxfest.org/content/schedule)

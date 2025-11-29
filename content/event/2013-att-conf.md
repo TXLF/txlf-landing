@@ -4,19 +4,20 @@ date: 2013-05-31
 tags: [austin]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>AT&T Conference Center, Austin</dd>
+AT&T Conference Center, Austin
 
-<dt>Dates</dt>
-<dd>May 31 - June 1, 2013</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd>Scaling: Lessons Learned and Their Applications to Apache Culture<br />
-Theo Schlossnagle<br/>
-OmniTI</dd>
+May 31 - June 1, 2013
 
-<dt><a href="https://web.archive.org/web/20130903140708/http://2013.texaslinuxfest.org/">Schedule</a></dt>
+## Keynote
 
-</dl>
+Scaling: Lessons Learned and Their Applications to Apache Culture\
+Theo Schlossnagle\
+OmniTI
+
+## Schedule
+
+[Schedule](https://web.archive.org/web/20130903140708/http://2013.texaslinuxfest.org/)

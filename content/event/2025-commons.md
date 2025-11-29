@@ -4,19 +4,20 @@ date: 2025-10-03
 tags: [austin]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>Commons Conference Center, University of Texas Austin</dd>
+Commons Conference Center, University of Texas Austin
 
-<dt>Dates</dt>
-<dd>Oct 3-4, 2025</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd><a href="https://2025.texaslinuxfest.org/talks/keynote/">Linux Software Security</a><br />
-Dustin Kirkland<br/>
-Chainguard</dd>
+Oct 3-4, 2025
 
-<dt><a href="https://2025.texaslinuxfest.org/schedule/">Schedule</a></dt>
+## Keynote
 
-</dl>
+[Linux Software Security](https://2025.texaslinuxfest.org/talks/keynote/)\
+Dustin Kirkland\
+Chainguard
+
+## Schedule
+
+[Schedule](https://2025.texaslinuxfest.org/schedule/)

@@ -4,19 +4,20 @@ date: 2014-06-13
 tags: [austin]
 ---
 
-<dl>
+## Location
 
-<dt>Location</dt>
-<dd>Austin Convention Center</dd>
+Austin Convention Center
 
-<dt>Dates</dt>
-<dd>June 13-14, 2014</dd>
+## Dates
 
-<dt>Keynote</dt>
-<dd>Identity Crisis: Are we who we say we are?<br />
-Karen Sandler<br/>
-Software Freedom Conservancy</dd>
+June 13-14, 2014
 
-<dt><a href="https://web.archive.org/web/20150106105336/http://2014.texaslinuxfest.org/content/event-schedule.html">Schedule</a></dt>
+## Keynote
 
-</dl>
+Identity Crisis: Are we who we say we are?\
+Karen Sandler\
+Software Freedom Conservancy
+
+## Schedule
+
+[Schedule](https://web.archive.org/web/20150106105336/http://2014.texaslinuxfest.org/content/event-schedule.html)
