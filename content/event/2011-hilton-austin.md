@@ -21,3 +21,11 @@ The HeliOS Project
 ## Schedule
 
 [Schedule](https://web.archive.org/web/20110830103936/http://texaslinuxfest.org:80/program/session-schedule)
+
+
+## Media Links
+
+* [Texas:LinuxFest 2011 Planning & Recap](https://fedoraproject.org/wiki/Texas:LinuxFest_2011)
+* [Debian Events US 2011: TexasLinuxFest](https://wiki.debian.org/DebianEvents/us/2011/TexasLinuxFest)
+* [LWN: TXLF: HeliOS helps schoolkids and challenges developers](https://lwn.net/Articles/437219/)
+* [openSUSE Ambassadors Events 2011 Report](https://en.opensuse.org/Archive:Ambassadors_events_2011)
