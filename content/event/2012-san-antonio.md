@@ -22,9 +22,7 @@ Chris Hardee, Jeremy Zunker, and Mike Perez\
 
 [Schedule](https://web.archive.org/web/20121028185657/http://2012.texaslinuxfest.org/program)
 
-
 ## Media Links
 
-* [Texas Linux Fest: Week to Win Free Pass (Linux Journal)](https://www.linuxjournal.com/content/texas-linux-fest-week-win-free-pass)
-* [LWN: TXLF: TexOS teaching open source](https://lwn.net/Articles/512023/)
 * [TXLF: TexOS teaching open source (August 8, 2012)](https://lwn.net/Articles/510177/)
+* [Texas Linux Fest: Week to Win Free Pass (Linux Journal)](https://www.linuxjournal.com/content/texas-linux-fest-week-win-free-pass)

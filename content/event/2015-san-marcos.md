@@ -25,8 +25,7 @@ Apache Foundation
 
 ## Media Links
 
-* [Corey Quinn: Interviewing & Negotiation (Video)](https://www.youtube.com/watch?v=dWDFNSKba0k)
-* [Be an inspiration, not an impostor (Slides)](https://major.io/p/slides-from-my-texas-linux-fest-2015-talk/)
-* [Interview: Josh Simmons on Failure (Opensource.com)](https://opensource.com/life/15/8/interview-josh-simmons-oreilly)
+* [Interview: Josh Simmons on Failure](https://opensource.com/life/15/8/interview-josh-simmons-oreilly)
 * [TXLF 2015 Recap (iXsystems)](https://www.ixsystems.com/blog/txlf-2015-recap/)
-* [Ken Starks and the text-to-speech dilemma (September 2, 2015)](https://lwn.net/Articles/656376/)
+* [Ken Starks and the text-to-speech dilemma](https://lwn.net/Articles/656376/)
+* [Be an inspiration, not an impostor (Slides)](https://major.io/p/slides-from-my-texas-linux-fest-2015-talk/)

@@ -29,7 +29,7 @@ Perl
 
 ## Media Links
 
+* [On bootstrapping a community-run FOSS event](https://lwn.net/Articles/384220/)
 * [Texas LinuxFest 2010 Event Page (Fedora Wiki)](https://fedoraproject.org/wiki/Texas_LinuxFest_2010)
-* [LinuxFest 2010 Wrap Up from the Fedora Project Booth](https://www.crossbytes.org/computer-recycling-center/bits-and-bytes-news-about-fedora-and-computer-recycling/linuxfest-2010-wrap-up-from-the-fedora-project-booth)
 * [MintCast Episode 35: Video Editing and Texas Linux Fest 2010](https://mintcast.org/episode-35-video-editing-and-texas-linux-fest-2010-2/)
-* [A Palm Pre Rant (Contextualizing Mobile Linux at TXLF)](https://blog.dustinkirkland.com/2010/04/palm-pre-rant.html)
+* [Texas Linux Fest 2010](https://blog.dustinkirkland.com/2010/04/texas-linux-fest-2010.html)
