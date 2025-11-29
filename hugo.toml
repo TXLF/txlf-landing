@@ -9,7 +9,8 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 
-paginate = 50
+[pagination]
+  pagerSize = 50
 
 [Services]
   [Services.Disqus]
