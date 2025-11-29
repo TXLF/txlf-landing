@@ -21,3 +21,8 @@ OpenStax
 ## Schedule
 
 [Schedule](https://web.archive.org/web/20181229050125/https://2018.texaslinuxfest.org/)
+
+
+## Media Links
+
+* [KernelCare is Coming to Texas Linux Fest 2018](https://tuxcare.com/blog/kernelcare-is-coming-to-texas-linux-fest-2018/)

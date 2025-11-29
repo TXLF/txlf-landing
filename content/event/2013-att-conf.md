@@ -21,3 +21,10 @@ OmniTI
 ## Schedule
 
 [Schedule](https://web.archive.org/web/20130903140708/http://2013.texaslinuxfest.org/)
+
+
+## Media Links
+
+* [Five Chances to Hear About the Xen Project](https://xenproject.org/blog/five-chances-to-hear-about-the-xen-project/)
+* [Diversity and recruiting developers](https://lwn.net/Articles/552848/)
+* [Mobile health initiatives and free software](https://lwn.net/Articles/552999/)

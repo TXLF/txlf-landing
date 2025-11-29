@@ -21,3 +21,7 @@ Chainguard
 ## Schedule
 
 [Schedule](https://2025.texaslinuxfest.org/schedule/)
+
+## Media Links
+
+* [The Texas Linux Fest Special](https://linuxunplugged.com/635)

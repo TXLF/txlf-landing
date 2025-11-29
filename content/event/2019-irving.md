@@ -21,3 +21,8 @@ Red Hat
 ## Schedule
 
 [Schedule](https://2019.texaslinuxfest.org/schedule.html)
+
+
+## Media Links
+
+* [Texas Linux Fest For The First Timer](https://rwalt.pro/posts/txlf2019/)
