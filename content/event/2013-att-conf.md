@@ -21,3 +21,13 @@ OmniTI
 ## Schedule
 
 [Schedule](https://web.archive.org/web/20130903140708/http://2013.texaslinuxfest.org/)
+
+
+## Media Links
+
+* [Five Chances to Hear About the Xen Project](https://xenproject.org/blog/five-chances-to-hear-about-the-xen-project/)
+* [Linux Action Show 258: Highlights from LinuxFest](https://www.youtube.com/watch?v=8u3yUF9p9WQ)
+* [Texas Linux Fest Inaugural Mention (Linux Journal)](https://www.linuxjournal.com/content/texas-linux-fest)
+* [Apache Software Foundation Board Minutes (May 2013)](https://apache.org/foundation/records/minutes/2013/board_minutes_2013_05_15.txt)
+* [Diversity and recruiting developers (June 5, 2013)](https://lwn.net/Articles/552848/)
+* [Mobile health initiatives and free software (June 5, 2013)](https://lwn.net/Articles/552999/)
