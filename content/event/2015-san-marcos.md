@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-San Marcos Conference Center
+[San Marcos Conference Center](https://www.openstreetmap.org/search?query=Embassy%20Suites%20San%20Marcos%20Conference%20Center)
 
 ### Dates
 

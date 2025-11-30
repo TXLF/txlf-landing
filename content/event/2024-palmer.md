@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-Palmer Events Center, Austin
+[Palmer Events Center, Austin](https://www.openstreetmap.org/search?query=Palmer%20Events%20Center%20Austin)
 
 ### Dates
 

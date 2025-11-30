@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-Hilton, Austin
+[Hilton, Austin](https://www.openstreetmap.org/search?query=Hilton%20Austin)
 
 ### Dates
 

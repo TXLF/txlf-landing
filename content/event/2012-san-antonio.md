@@ -6,7 +6,7 @@ tags: [san-antonio]
 
 ### Location
 
-Norris Conference Center, San Antonio
+[Norris Conference Center, San Antonio](https://www.openstreetmap.org/search?query=Norris%20Conference%20Centers%20San%20Antonio)
 
 ### Dates
 

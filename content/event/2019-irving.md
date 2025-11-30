@@ -6,7 +6,7 @@ tags: [irving, dallas]
 
 ### Location
 
-Irving Convention Center, Irving
+[Irving Convention Center, Irving](https://www.openstreetmap.org/search?query=Irving%20Convention%20Center)
 
 ### Dates
 

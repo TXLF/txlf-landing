@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-Austin Convention Center
+[Austin Convention Center](https://www.openstreetmap.org/search?query=Austin%20Convention%20Center)
 
 ### Dates
 
