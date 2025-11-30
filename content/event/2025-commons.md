@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-Commons Conference Center, University of Texas Austin
+[Commons Conference Center, University of Texas Austin](https://www.openstreetmap.org/way/1214236418)
 
 ### Dates
 

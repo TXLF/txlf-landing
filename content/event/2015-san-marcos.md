@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-San Marcos Conference Center
+[San Marcos Conference Center](https://www.openstreetmap.org/way/197350818)
 
 ### Dates
 
