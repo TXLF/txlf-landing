@@ -6,7 +6,7 @@ tags: [austin]
 
 ### Location
 
-[The Marchesa, Austin](https://www.openstreetmap.org/node/661314999)
+The Marchesa, Austin
 
 ### Dates
 
