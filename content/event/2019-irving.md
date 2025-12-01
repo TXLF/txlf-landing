@@ -16,7 +16,7 @@ May 31 - June 1, 2019
 
 [Linux State of the Union](https://2019.texaslinuxfest.org/presentations.html#track1_0)\
 Thomas Cameron\
-Red Hat
+[Red Hat](https://en.wikipedia.org/wiki/Red_Hat)
 
 ### Schedule
 

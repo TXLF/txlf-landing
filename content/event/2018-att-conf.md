@@ -16,7 +16,7 @@ June 8-9, 2018
 
 Open Source Education Resources\
 Ross Reedstrom\
-OpenStax
+[OpenStax](https://en.wikipedia.org/wiki/OpenStax)
 
 ### Schedule
 
