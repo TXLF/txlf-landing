@@ -16,7 +16,7 @@ July 8-9, 2016
 
 Going Gray: Free Software at 35\
 Matt Lee\
-Creative Commons
+[Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons)
 
 ### Schedule
 

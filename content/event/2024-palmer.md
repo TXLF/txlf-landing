@@ -16,7 +16,7 @@ April 12-13, 2024
 
 [How (Not) To Get Into Tech](https://2024.texaslinuxfest.org/talks/how-not-to-get-into-tech/)\
 Anita Zhang\
-Meta
+[Meta](https://en.wikipedia.org/wiki/Meta_Platforms)
 
 ### Schedule
 

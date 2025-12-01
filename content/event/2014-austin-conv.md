@@ -15,8 +15,8 @@ June 13-14, 2014
 ### Keynote
 
 Identity Crisis: Are we who we say we are?\
-Karen Sandler\
-Software Freedom Conservancy
+[Karen Sandler](https://en.wikipedia.org/wiki/Karen_Sandler)\
+[Software Freedom Conservancy](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy)
 
 ### Schedule
 

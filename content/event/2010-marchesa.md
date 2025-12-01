@@ -16,11 +16,11 @@ April 10, 2010
 
 A Musical Guide to the Future of Linux: Reprise\
 Joe "Zonker" Brockmeier\
-openSUSE
+[openSUSE](https://en.wikipedia.org/wiki/OpenSUSE)
 
 [Free Software: A Look Back, a Look Ahead](https://web.archive.org/web/20100406043308/http://www.texaslinuxfest.org/talks/2010/free-software-a-look-back/)\
-Randal L. Schwartz\
-Perl
+[Randal L. Schwartz](https://en.wikipedia.org/wiki/Randal_L._Schwartz)\
+[Perl](https://en.wikipedia.org/wiki/Perl)
 
 ### Schedule
 
