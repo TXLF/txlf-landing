@@ -2,4 +2,8 @@ Texas Linux Fest is a gathering of technology enthusiasts with the goal of shari
 
 Texas Linux Fest is organized by volunteers and is an educational non-profit organization. Our mission is to bring awesome technical content to Texas and build up the technical community in Texas.
 
-**[Join us at our upcoming 2026 Texas Linux Fest](https://2026.texaslinuxfest.org/)**
+<span style="font-size:22pt;text-align:center">
+
+**[Join us at our upcoming<br/>2026 Texas Linux Fest<br/>Nov 6-7, 2026](https://2026.texaslinuxfest.org/)**
+
+</span>
