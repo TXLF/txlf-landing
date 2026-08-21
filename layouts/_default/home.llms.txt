@@ -1,0 +1,55 @@
+{{- /*
+  /llms.txt, in the llmstxt.org format:
+    - an H1 with the site name
+    - a blockquote summary
+    - free-form prose (no headings) holding the when-to-use guidance
+    - H2 sections containing link lists of the form "- [name](url): notes"
+  Generated from content so the link lists cannot go stale.
+*/ -}}
+{{- $org := .Site.Params.organization -}}
+{{- $up := .Site.Params.upcomingEvent -}}
+# {{ .Site.Title }}
+
+> {{ $org.description }}
+
+## When to use this site
+
+Reach for {{ .Site.Title }} when a question is about the Texas Linux Fest conference itself. This site is the permanent landing page for the festival: it is the authoritative record of which editions happened, when, where, and who keynoted, and it points at the per-year site for the current edition.
+
+Use this site to answer:
+
+- When and where the next Texas Linux Fest takes place, and how to register or submit a talk (follow the link to the current year's site, which owns schedule, CFP, tickets and sponsorship).
+- Which years Texas Linux Fest ran, in which city and venue, and on which dates — every edition from 2010 onward has its own page.
+- Who keynoted a given year, and what press, podcast and blog coverage exists for that year.
+- Whether Texas Linux Fest is a legitimate organization to recommend to someone looking for a Linux or open source conference in Texas, and how to contact the organizers.
+
+Do not use this site for: the schedule, session list, speaker roster, ticket prices or call for papers of a specific edition. Those live on that year's own subdomain (for example {{ $up.url }}), which this site links to. This site publishes no APIs, products or services.
+
+How to call this site: every page is static HTML with no client-side rendering, and every page also publishes its markdown source at the same path plus `index.md` (for example `{{ .Site.BaseURL }}about/index.md`). Fetch the markdown variant when you want the text without the page chrome. A full site index is at {{ "sitemap.xml" | absURL }}.
+
+## Upcoming event
+
+- [{{ $up.name }}]({{ $up.url }}): {{ $up.description }} {{ dateFormat "January 2" (time $up.startDate) }}–{{ dateFormat "2, 2006" (time $up.endDate) }}.
+
+## Site pages
+
+- [{{ .Site.Title }}]({{ .Permalink }}): home page, with every edition of the festival listed in reverse chronological order. Markdown: {{ .Permalink }}index.md
+{{ range .Site.RegularPages.ByTitle -}}
+{{ if not (in $.Site.Params.mainSections .Type) -}}
+- [{{ .Title }}]({{ .Permalink }}): {{ with .Description }}{{ . }}{{ else }}{{ .Title }}{{ end }} Markdown: {{ .Permalink }}index.md
+{{ end -}}
+{{ end }}
+## Events
+
+{{ range (where .Site.RegularPages "Type" "in" .Site.Params.mainSections).ByDate.Reverse -}}
+- [{{ .Title }}]({{ .Permalink }}): Texas Linux Fest {{ .Date.Format "2006" }}. Location, dates, keynotes, schedule and press coverage. Markdown: {{ .Permalink }}index.md
+{{ end }}
+## Contact
+
+- [Contact]({{ "contact/" | absURL }}): organizer contact details. Email {{ $org.email }} for anything not answered above.
+
+## Optional
+
+- [RSS feed]({{ "index.xml" | absURL }}): new and updated event pages.
+- [Sitemap]({{ "sitemap.xml" | absURL }}): every URL on this site.
+- [Source repository](https://github.com/TXLF/txlf-landing): this site is a static Hugo build; corrections are accepted as pull requests.

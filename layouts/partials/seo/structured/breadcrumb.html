@@ -1,0 +1,29 @@
+{{- /*
+  Overrides the theme partial of the same name, which numbered a two-item trail
+  1 and 3 and skipped the section entirely.
+*/ -}}
+{{- $items := slice (dict
+    "@type" "ListItem"
+    "position" 1
+    "name" .Site.Title
+    "item" .Site.BaseURL) -}}
+{{- with .CurrentSection -}}
+  {{- if and .Title (ne .Permalink $.Site.BaseURL) -}}
+    {{- $items = $items | append (dict
+        "@type" "ListItem"
+        "position" (add (len $items) 1)
+        "name" .Title
+        "item" .Permalink) -}}
+  {{- end -}}
+{{- end -}}
+{{- $items = $items | append (dict
+    "@type" "ListItem"
+    "position" (add (len $items) 1)
+    "name" .Title
+    "item" .Permalink) -}}
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $items
+-}}
+<script type="application/ld+json">{{ $data | jsonify }}</script>

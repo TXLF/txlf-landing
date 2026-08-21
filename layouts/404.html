@@ -1,0 +1,46 @@
+{{- /*
+  Overrides the theme 404, which rendered an empty <h1> filled in by JavaScript
+  and a single line of text. GitHub Pages serves this file with a real HTTP 404
+  status for any unknown path, so it is the response an agent gets when it
+  guesses a URL: give it enough to recover from.
+*/ -}}
+{{ define "header" }}<!-- No header on 404 pages -->{{ end }}
+{{ define "main" }}
+  <div role="main" class="container main-content">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="text-center">
+          <h1 class="error-emoji">Page not found</h1>
+          <p class="error-text">{{ i18n "pageNotFound" }}</p>
+        </div>
+        <article role="main" class="blog-post">
+          <p>
+            This URL does not exist on {{ .Site.Title }} and never did &mdash;
+            this response carries an HTTP 404 status. Nothing here was moved or
+            removed; the path is simply not part of this site.
+          </p>
+          <h2>Where to look next</h2>
+          <ul>
+            <li><a href="{{ "" | absLangURL }}">Home</a> &mdash; every edition of the festival, newest first.</li>
+            <li><a href="{{ "about/" | absURL }}">About</a> &mdash; what Texas Linux Fest is and who runs it.</li>
+            <li><a href="{{ "contact/" | absURL }}">Contact</a> &mdash; how to reach the organizers.</li>
+            <li><a href="{{ "privacy/" | absURL }}">Privacy</a> &mdash; what this site collects.</li>
+          </ul>
+          <h2>Machine-readable indexes</h2>
+          <ul>
+            <li><a href="{{ "llms.txt" | absURL }}">/llms.txt</a> &mdash; agent instructions, when to use this site, and a link list of every page.</li>
+            <li><a href="{{ "sitemap.xml" | absURL }}">/sitemap.xml</a> &mdash; every URL on this site.</li>
+            <li><a href="{{ "index.md" | absURL }}">/index.md</a> &mdash; the home page as markdown. Every page publishes its markdown source at the same path plus <code>index.md</code>.</li>
+            <li><a href="{{ "index.xml" | absURL }}">/index.xml</a> &mdash; RSS feed.</li>
+          </ul>
+          <p>
+            Individual editions live under <code>/event/&lt;year&gt;-&lt;venue&gt;/</code>,
+            for example <a href="{{ "event/2025-commons/" | absURL }}">/event/2025-commons/</a>.
+            Schedules, talks and registration for a given year live on that
+            year's own site, not here.
+          </p>
+        </article>
+      </div>
+    </div>
+  </div>
+{{ end }}
