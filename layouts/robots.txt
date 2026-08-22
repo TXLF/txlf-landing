@@ -1,0 +1,9 @@
+{{- /* Generated because enableRobotsTXT is on in hugo.toml. */ -}}
+User-agent: *
+Allow: /
+
+# Agent instructions and when-to-use guidance:
+# {{ "llms.txt" | absURL }}
+# Every page also publishes its markdown source at <page>index.md
+
+Sitemap: {{ "sitemap.xml" | absURL }}

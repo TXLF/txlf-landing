@@ -1,0 +1,29 @@
+{{- /*
+  schema.org/Event for the next edition of the festival, emitted on the home
+  page only. Values come from [Params.upcomingEvent] in hugo.toml.
+*/ -}}
+{{- with .Site.Params.upcomingEvent -}}
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "Event"
+  "name" .name
+  "description" .description
+  "url" .url
+  "startDate" .startDate
+  "endDate" .endDate
+  "eventStatus" "https://schema.org/EventScheduled"
+  "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
+  "location" (dict
+    "@type" "Place"
+    "name" "Texas"
+    "address" (dict "@type" "PostalAddress" "addressRegion" "TX" "addressCountry" "US")
+  )
+  "organizer" (dict "@id" (printf "%s#organization" $.Site.BaseURL))
+  "superEvent" (dict
+    "@type" "EventSeries"
+    "name" "Texas Linux Fest"
+    "url" $.Site.BaseURL
+  )
+-}}
+<script type="application/ld+json">{{ $data | jsonify }}</script>
+{{- end -}}

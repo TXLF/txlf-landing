@@ -1,0 +1,64 @@
+{{- /*
+  Overrides the theme partial of the same name, which emits an Organization
+  with an empty name and no description, contactPoint or address.
+
+  Values come from [Params.organization] in hugo.toml. Address fields are read
+  by name rather than by ranging over the params map, because Hugo lower-cases
+  TOML keys and schema.org property names are case-sensitive. Empty fields are
+  omitted rather than published as empty strings.
+*/ -}}
+{{- $org := .Site.Params.organization -}}
+{{- $cfg := $org.address -}}
+{{- $addr := dict "@type" "PostalAddress" -}}
+{{- range $pair := (slice
+      (slice "streetAddress" "streetaddress")
+      (slice "addressLocality" "addresslocality")
+      (slice "addressRegion" "addressregion")
+      (slice "postalCode" "postalcode")
+      (slice "addressCountry" "addresscountry")) -}}
+  {{- with index $cfg (index $pair 1) -}}
+    {{- $addr = merge $addr (dict (index $pair 0) .) -}}
+  {{- end -}}
+{{- end -}}
+{{- /*
+  sameAs is built from the same author params and the same URL templates the
+  theme footer uses, so a profile linked in the footer is always claimed here.
+  A param may hold either a full URL or a bare handle; the theme's social data
+  supplies the printf template for the handle case.
+*/ -}}
+{{- $sameAs := slice -}}
+{{- range $icon := .Site.Data.beautifulhugo.social.social_icons -}}
+  {{- with index $.Site.Params.author $icon.id -}}
+    {{- if hasPrefix . "http" -}}
+      {{- $sameAs = $sameAs | append . -}}
+    {{- else if and $icon.url (hasPrefix $icon.url "http") -}}
+      {{- /* Skips non-profile entries such as the mailto: icon. */ -}}
+      {{- $sameAs = $sameAs | append (printf $icon.url .) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "@id" (printf "%s#organization" .Site.BaseURL)
+  "name" $org.name
+  "legalName" $org.legalName
+  "alternateName" $org.alternateName
+  "description" $org.description
+  "url" .Site.BaseURL
+  "logo" ($org.logo | absURL)
+  "image" ($org.logo | absURL)
+  "foundingDate" $org.foundingDate
+  "email" $org.email
+  "sameAs" $sameAs
+  "contactPoint" (slice (dict
+    "@type" "ContactPoint"
+    "contactType" $org.contactType
+    "email" $org.email
+    "url" ("contact/" | absURL)
+    "availableLanguage" (slice "English")
+  ))
+  "address" $addr
+  "areaServed" (dict "@type" "State" "name" "Texas")
+-}}
+<script type="application/ld+json">{{ $data | jsonify }}</script>

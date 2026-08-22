@@ -1,0 +1,18 @@
+{{- /*
+  Overrides the theme partial of the same name to add a description and to tie
+  the WebSite node to the Organization node published by
+  seo/structured/organization.html.
+*/ -}}
+{{- $org := .Site.Params.organization -}}
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "@id" (printf "%s#website" .Site.BaseURL)
+  "name" .Site.Title
+  "alternateName" $org.alternateName
+  "description" $org.description
+  "url" .Site.BaseURL
+  "inLanguage" .Site.LanguageCode
+  "publisher" (dict "@id" (printf "%s#organization" .Site.BaseURL))
+-}}
+<script type="application/ld+json">{{ $data | jsonify }}</script>

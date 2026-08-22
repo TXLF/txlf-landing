@@ -1,6 +1,7 @@
 baseurl = "https://www.texaslinuxfest.org"
 DefaultContentLanguage = "en"
 title = "Texas Linux Fest"
+enableRobotsTXT = true
 theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -12,6 +13,55 @@ pygmentsCodefencesGuessSyntax = true
 [pagination]
   pagerSize = 50
 
+# Machine-readable representations of every page.
+#
+# MARKDOWN publishes the raw markdown source of each page next to its HTML at
+# <page>/index.md, so an agent can fetch the text without the page chrome.
+# GitHub Pages serves files by path: it cannot negotiate on the Accept header
+# or set "Vary: Accept", so the markdown variant is advertised through
+# rel="alternate" and /llms.txt rather than through content negotiation.
+[mediaTypes]
+  [mediaTypes."text/markdown"]
+    suffixes = ["md"]
+
+[outputFormats]
+  [outputFormats.MARKDOWN]
+    mediaType = "text/markdown"
+    baseName = "index"
+    isPlainText = true
+    isHTML = false
+    permalinkable = false
+    notAlternative = false
+  [outputFormats.LLMS]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    isHTML = false
+    permalinkable = false
+    notAlternative = true
+    rel = "alternate"
+
+[outputs]
+  home = ["HTML", "RSS", "MARKDOWN", "LLMS"]
+  page = ["HTML", "MARKDOWN"]
+  section = ["HTML", "RSS", "MARKDOWN"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+# Trust-anchor pages. Agents check these before recommending an organization.
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
+[[menu.main]]
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 3
+
 [Services]
   [Services.Disqus]
     # Shortname = "XXX"
@@ -19,7 +69,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "Texas Linux Fest" # Also used as the <title> and the home page <h1>
 #  subtitle = "Texas' Community Tech Conference"
   mainSections = ["event"]
   logo = "/images/txlf-icon-grey.svg"
@@ -51,6 +101,35 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+# Organization identity, consumed by layouts/partials/seo/structured/organization.html
+# and by the generated llms.txt.
+[Params.organization]
+  name = "Texas Linux Fest"
+  legalName = "Texas Linux Fest"
+  alternateName = "TXLF"
+  description = "Texas Linux Fest is a volunteer-run, non-profit community conference for Linux, open source and free software, held annually in Texas since 2010."
+  email = "info@texaslinuxfest.org"
+  contactType = "general inquiries"
+  foundingDate = "2010"
+  logo = "/images/txlf-icon-grey.svg"
+  # Texas Linux Fest has no permanent office; the address below is the
+  # region the organization operates in. Fill in streetAddress, addressLocality
+  # and postalCode if a mailing address becomes available.
+  [Params.organization.address]
+    streetAddress = ""
+    addressLocality = ""
+    addressRegion = "TX"
+    postalCode = ""
+    addressCountry = "US"
+
+# The next Texas Linux Fest, published as schema.org/Event on the home page.
+[Params.upcomingEvent]
+  name = "Texas Linux Fest 2026"
+  url = "https://2026.texaslinuxfest.org/"
+  startDate = "2026-11-06"
+  endDate = "2026-11-07"
+  description = "The 2026 edition of Texas Linux Fest, the annual community conference for Linux and open source in Texas."
+
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Texas Linux Fest"
@@ -58,7 +137,7 @@ pygmentsCodefencesGuessSyntax = true
   facebook = "https://www.facebook.com/TexasLinuxFest/"
   instagram = "https://www.instagram.com/explore/tags/texaslinuxfest/"
   github = "https://github.com/TXLF/"
-  twitter = "https://twitter.com/texaslinuxfest"
+  twitter = "texaslinuxfest"
   linkedin = "https://www.linkedin.com/company/texas-linux-fest/"
   youtube = "https://www.youtube.com/@texaslinuxfest3002"
   mastodon = "https://fosstodon.org/@TexasLinuxFest/"
