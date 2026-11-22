@@ -23,6 +23,10 @@ OmniTI
 [Schedule](https://web.archive.org/web/20130903140708/http://2013.texaslinuxfest.org/)
 
 
+### Videos
+
+[TXLF 2013 playlist on YouTube](https://www.youtube.com/playlist?list=PLcf40dH9Llwo)
+
 ### Media Links
 
 * [Five Chances to Hear About the Xen Project](https://xenproject.org/blog/five-chances-to-hear-about-the-xen-project/)

@@ -23,6 +23,10 @@ Joan Touzet\
 [Schedule](https://web.archive.org/web/20150908152332/http://2015.texaslinuxfest.org/schedule)
 
 
+### Videos
+
+[TXLF 2015 playlist on YouTube](https://www.youtube.com/playlist?list=PLUstGj9Muzi6KfoDrxzHHulTTKaeYtRZl)
+
 ### Media Links
 
 * [Interview: Josh Simmons on Failure](https://opensource.com/life/15/8/interview-josh-simmons-oreilly)

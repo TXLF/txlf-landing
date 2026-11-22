@@ -23,6 +23,10 @@ Thomas Cameron\
 [Schedule](https://2019.texaslinuxfest.org/schedule.html)
 
 
+### Videos
+
+[TXLF 2019 playlist on YouTube](https://www.youtube.com/playlist?list=PLAKnpEzKZ2-4)
+
 ### Media Links
 
 * [Texas Linux Fest For The First Timer](https://rwalt.pro/posts/txlf2019/)

@@ -22,6 +22,10 @@ Chainguard
 
 [Schedule](https://2025.texaslinuxfest.org/schedule/)
 
+### Videos
+
+[TXLF 2025 playlist on YouTube](https://www.youtube.com/playlist?list=PLUstGj9Muzi7-JWFBZ-Pao0rGhuyE4OfA)
+
 ### Media Links
 
 * [The Texas Linux Fest Special](https://linuxunplugged.com/635)
