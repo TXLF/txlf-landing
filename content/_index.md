@@ -4,6 +4,6 @@ Texas Linux Fest is organized by volunteers and is an educational non-profit org
 
 <span style="font-size:22pt;text-align:center">
 
-**[Join us at our upcoming<br/>2026 Texas Linux Fest<br/>Nov 6-7, 2026](https://2026.texaslinuxfest.org/)**
+**[Join us at our upcoming<br/>2027 Texas Linux Fest<br/>Sep 17-18, 2027](https://2027.texaslinuxfest.org/)**
 
 </span>

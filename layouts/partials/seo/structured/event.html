@@ -3,6 +3,7 @@
   page only. Values come from [Params.upcomingEvent] in hugo.toml.
 */ -}}
 {{- with .Site.Params.upcomingEvent -}}
+{{- if .startDate -}}
 {{- $data := dict
   "@context" "https://schema.org"
   "@type" "Event"
@@ -26,4 +27,5 @@
   )
 -}}
 <script type="application/ld+json">{{ $data | jsonify }}</script>
+{{- end -}}
 {{- end -}}
