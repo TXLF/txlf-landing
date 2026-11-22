@@ -124,11 +124,13 @@ pygmentsCodefencesGuessSyntax = true
 
 # The next Texas Linux Fest, published as schema.org/Event on the home page.
 [Params.upcomingEvent]
-  name = "Texas Linux Fest 2026"
-  url = "https://2026.texaslinuxfest.org/"
-  startDate = "2026-11-06"
-  endDate = "2026-11-07"
-  description = "The 2026 edition of Texas Linux Fest, the annual community conference for Linux and open source in Texas."
+  # startDate/endDate (YYYY-MM-DD) are required for the schema.org/Event to be
+  # emitted; leave them unset until the dates are announced.
+  name = "Texas Linux Fest 2027"
+  url = "https://2027.texaslinuxfest.org/"
+  startDate = "2027-09-17"
+  endDate = "2027-09-18"
+  description = "The 2027 edition of Texas Linux Fest, the annual community conference for Linux and open source in Texas."
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
