@@ -26,3 +26,4 @@ Ross Reedstrom\
 ### Media Links
 
 * [KernelCare is Coming to Texas Linux Fest 2018](https://tuxcare.com/blog/kernelcare-is-coming-to-texas-linux-fest-2018/)
+* [Embedded Linux Build Systems (Drew Moseley, Mender.io, slides)](https://www.slideshare.net/slideshow/embedded-linux-build-systems-texas-linux-fest-2018/101554113)

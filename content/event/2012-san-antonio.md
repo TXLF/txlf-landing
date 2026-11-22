@@ -26,3 +26,7 @@ Chris Hardee, Jeremy Zunker, and Mike Perez\
 
 * [TXLF: TexOS teaching open source (August 8, 2012)](https://lwn.net/Articles/510177/)
 * [Texas Linux Fest: Week to Win Free Pass (Linux Journal)](https://www.linuxjournal.com/content/texas-linux-fest-week-win-free-pass)
+* [Texas Linux Fest 2012 call for papers (LWN)](https://lwn.net/Articles/494494/)
+* [pfSense at Texas Linux Fest 2012 (Netgate)](https://www.netgate.com/blog/pfsense-at-texas-linux-fest-2012)
+* [openSUSE:TexasLinuxFest 2012 (openSUSE Wiki)](https://en.opensuse.org/openSUSE:TexasLinuxFest_2012)
+* [TXLF 2012 (Fedora Wiki)](https://fedoraproject.org/wiki/TXLF_2012)

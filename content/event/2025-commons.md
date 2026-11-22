@@ -28,4 +28,8 @@ Chainguard
 
 ### Media Links
 
-* [The Texas Linux Fest Special](https://linuxunplugged.com/635)
+* [The Texas Linux Fest Special](https://linuxunplugged.com/635) (LINUX Unplugged 635)
+* [Texas Linux Fest: After the Fact (Brian Moses)](https://blog.briancmoses.com/2025/10/texas-linux-fest-after-the-fact.html)
+* [DIY NAS: 2025 Texas Linux Fest Edition (Brian Moses)](https://blog.briancmoses.com/2025/09/diy-nas-2025-texas-linux-fest-edition.html)
+* [We Had A Booth At Texas Linux Fest 2025!](https://butterwhat.com/2025/10/07/we-had-a-booth-at-texas-linux-fest-2025.html)
+* [Magical Mystery Tour: A Roundup of Observability Datastores (Altinity)](https://altinity.com/events/texas-linux-festival-2025-talk-magical-mystery-tour-a-roundup-of-observability-datastores)
