@@ -34,4 +34,3 @@ Thomas Cameron\
 * [Texas Linuxfest 2019 (LINUX Unplugged)](https://linuxunplugged.com/articles/texas-linuxfest-2019)
 * [Don't Miss The Texas Linux Fest (Montgomery One)](https://montgomery1.com/2019/05/26/dont-miss-the-texas-linux-fest/)
 * [Texas Linux Fest 2019 (Linux Academy)](https://linuxacademy.com/blog/linux-academy/texas-linux-fest-2019/)
-* [Texas Linux Fest 2019 in Dallas](https://www.gould.cx/ted/blog/2019/01/10/Texas-Linux-Fest-2019-in-Dallas/)
