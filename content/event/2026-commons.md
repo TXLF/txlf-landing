@@ -21,6 +21,10 @@ Nov 6-7, 2026
 Surviving the Rugpull Economy\
 Don Marti
 
+### Videos
+
+[TXLF 2026 playlist on YouTube](https://www.youtube.com/playlist?list=PLZNhvpI6qLq0)
+
 ### Media Links
 
 * [Two Cities, One Linux](https://www.jupiterbroadcasting.com/show/linux-unplugged/693/) (LINUX Unplugged 693)

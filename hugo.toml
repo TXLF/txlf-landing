@@ -141,7 +141,7 @@ pygmentsCodefencesGuessSyntax = true
   github = "https://github.com/TXLF/"
   twitter = "texaslinuxfest"
   linkedin = "https://www.linkedin.com/company/texas-linux-fest/"
-  youtube = "https://www.youtube.com/@texaslinuxfest3002"
+  youtube = "https://www.youtube.com/@texaslinuxfest"
   mastodon = "https://fosstodon.org/@TexasLinuxFest/"
 
 [markup]

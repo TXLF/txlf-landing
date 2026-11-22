@@ -31,7 +31,7 @@ email us and we will tell you when it opens.
 - GitHub: [github.com/TXLF](https://github.com/TXLF/)
 - LinkedIn: [Texas Linux Fest](https://www.linkedin.com/company/texas-linux-fest/)
 - Facebook: [TexasLinuxFest](https://www.facebook.com/TexasLinuxFest/)
-- YouTube: [@texaslinuxfest3002](https://www.youtube.com/@texaslinuxfest3002)
+- YouTube: [@texaslinuxfest](https://www.youtube.com/@texaslinuxfest)
 - X/Twitter: [@texaslinuxfest](https://twitter.com/texaslinuxfest)
 
 Recorded talks from past editions are posted to the YouTube channel, and the
