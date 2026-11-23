@@ -33,4 +33,4 @@ Thomas Cameron\
 * [Texas Linux Fest 2019 Recap (Major.io)](https://major.io/p/texas-linux-fest-2019-recap/)
 * [Texas Linuxfest 2019 (LINUX Unplugged)](https://linuxunplugged.com/articles/texas-linuxfest-2019)
 * [Don't Miss The Texas Linux Fest (Montgomery One)](https://montgomery1.com/2019/05/26/dont-miss-the-texas-linux-fest/)
-* [Texas Linux Fest 2019 (Linux Academy)](https://linuxacademy.com/blog/linux-academy/texas-linux-fest-2019/)
+* [Texas Linux Fest 2019 (Linux Academy)](https://web.archive.org/web/20200805065512/https://linuxacademy.com/blog/linux-academy/texas-linux-fest-2019/)
