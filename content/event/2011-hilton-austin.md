@@ -27,5 +27,4 @@ The HeliOS Project
 
 * [TXLF: HeliOS helps schoolkids and challenges developers (April 6, 2011)](https://lwn.net/Articles/437057/)
 * [TXLF: Defining and predicting the mobile "ecosystem" (April 13, 2011)](https://lwn.net/Articles/438189/)
-* [Texas:LinuxFest 2011 Planning & Recap](https://fedoraproject.org/wiki/Texas:LinuxFest_2011)
-* [Debian Events US 2011: TexasLinuxFest](https://wiki.debian.org/DebianEvents/us/2011/TexasLinuxFest)
+* [Opscode at the Texas Linux Fest (Chef Blog)](https://www.chef.io/blog/opscode-at-the-texas-linux-fest)

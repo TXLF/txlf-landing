@@ -30,6 +30,5 @@ Joe "Zonker" Brockmeier\
 ### Media Links
 
 * [On bootstrapping a community-run FOSS event](https://lwn.net/Articles/384220/)
-* [Texas LinuxFest 2010 Event Page (Fedora Wiki)](https://fedoraproject.org/wiki/Texas_LinuxFest_2010)
 * [MintCast Episode 35: Video Editing and Texas Linux Fest 2010](https://mintcast.org/episode-35-video-editing-and-texas-linux-fest-2010-2/)
 * [Texas Linux Fest 2010](https://blog.dustinkirkland.com/2010/04/texas-linux-fest-2010.html)

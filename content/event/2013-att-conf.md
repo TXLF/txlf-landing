@@ -32,5 +32,3 @@ OmniTI
 * [Five Chances to Hear About the Xen Project](https://xenproject.org/blog/five-chances-to-hear-about-the-xen-project/)
 * [Diversity and recruiting developers](https://lwn.net/Articles/552848/)
 * [Mobile health initiatives and free software](https://lwn.net/Articles/552999/)
-* [Opscode at the Texas Linux Fest (Chef Blog, slides)](https://www.chef.io/blog/opscode-at-the-texas-linux-fest)
-* [TXLF 2013 (Fedora Wiki)](https://fedoraproject.org/wiki/TXLF_2013)

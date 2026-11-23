@@ -31,7 +31,5 @@ Identity Crisis: Are we who we say we are?\
 * [Karen Sandler on what we mean by "we"](https://lwn.net/Articles/602457/)
 * [Acilos, the private social networking "valet"](https://lwn.net/Articles/602733/)
 * [Thoughts on the IRS Review of Free Software Nonprofits and Why I'm Not Worried for Conservancy](https://sfconservancy.org/blog/2014/jul/02/FLOSS-501c3-status/)
-* [TXLF 2014 Recap (iXsystems)](https://www.ixsystems.com/blog/txlf-2014-recap/)
 * [CRIU at Texas Linux Fest 2014 (Kir Kolyshkin, slides)](https://www.slideshare.net/slideshow/criu-texaslinuxfest2014/35876981)
 * [OpenShot June/July Development Update](https://www.openshot.org/blog/2014/07/20/june-july-development-update-part-1-or-3/)
-* [TXLF 2014 (Fedora Wiki)](https://fedoraproject.org/wiki/TXLF_2014)

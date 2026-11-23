@@ -27,5 +27,4 @@ Anita Zhang\
 
 * [Texas Linux Fest 2024 Recap (Major.io)](https://major.io/p/texas-linux-fest-2024-recap/)
 * [Linux Unplugged Ep 559: We're Back from Austin](https://linuxunplugged.com/559)
-* [Percona at Texas Linux Festival 2024](https://www.percona.com/community/events/texas-linux-festival-2024)
 * [Texas Linux Fest 2024 (Elizabeth K. Joseph)](https://princessleia.com/journal/2024/04/texas-linux-fest-2024/)
