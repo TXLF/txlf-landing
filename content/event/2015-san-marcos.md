@@ -31,7 +31,6 @@ Joan Touzet\
 
 * [Interview: Josh Simmons on Failure](https://opensource.com/life/15/8/interview-josh-simmons-oreilly)
 * [Ken Starks and the text-to-speech dilemma](https://lwn.net/Articles/656376/)
-* [Be an inspiration, not an impostor (Slides)](https://major.io/p/slides-from-my-texas-linux-fest-2015-talk/)
 * [Deep in the Heart of Texas Linux Fest 2015 (FOSS Force)](https://fossforce.com/2015/08/deep-heart-texas-linux-fest-2015/)
 * [Kickin' Back at Texas Linux Fest (Ken Starks, FOSS Force)](https://fossforce.com/2015/08/texas-linux-fest/)
 * [Texas Linux Fest 2015 (Opensource.com)](https://opensource.com/resources/texas-linuxfest-2015)

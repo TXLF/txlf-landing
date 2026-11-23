@@ -13,7 +13,7 @@ event by people outside the organizing team.
 - Write-ups that report on the event: recaps, trip reports, LWN-style
   articles on talks, booth/sponsor reports written after the event.
 - Podcast episodes that cover the event.
-- Speaker slides, talk notes or repos from a talk given at that year's event.
+- A speaker's own write-up or notes from a talk given at that year's event.
 - Pre-event posts from speakers or sponsors that describe what they brought
   (talk preview, booth announcement) are acceptable but rank below reports.
 
@@ -28,6 +28,7 @@ event by people outside the organizing team.
 - Posts that only mention TXLF in passing.
 - Third-party aggregations of talk summaries (for example personal GitHub
   repos summarizing other people's talks).
+- Slide decks (SlideShare, slide repos, slides-only posts).
 - The TXLF YouTube channel or playlists; those go under the Videos section.
 
 ### Verifying a link
@@ -43,7 +44,7 @@ chef.io looked like 2013 but is dated March 2011).
   (`https://web.archive.org/web/<timestamp>/<original-url>`).
 - Page is gone and archive.org has no record of it: treat it as never having
   existed and leave it out.
-- A bot-check page (SlideShare, Cloudflare) is not a dead page; keep the
+- A bot-check page (Cloudflare and similar) is not a dead page; keep the
   original link if archive.org confirms it exists.
 - Link to the specific post, not a blog's monthly archive or index page.
 
@@ -54,4 +55,4 @@ chef.io looked like 2013 but is dated March 2011).
 ```
 
 Use the post's own title. Add the outlet or author in parentheses when the
-title alone doesn't say where it's from, and note "slides" for slide decks.
+title alone doesn't say where it's from.
